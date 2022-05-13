@@ -87,7 +87,7 @@ margin-right: 10px;
     align-items: center;
     background-color: var(--white);
     border-radius: 0 0 8px 8px;
-    height: 200px;
+    height: 190px;
     justify-content: space-between;
 }
 
@@ -177,3 +177,7 @@ margin-right: 10px;
     color: var(--text-light-gray);
 }
 
+.Capafilme{
+    width: 600px;
+    height: 300px;
+}
