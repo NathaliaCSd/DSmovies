@@ -19,7 +19,6 @@ h1, h2, h3, h4, h5, h6{
 }
 
 html, body{
-
 background-color: var(--bg-gray);
 
 }
@@ -33,7 +32,6 @@ header{
 
 
 nav{
-
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -73,7 +71,6 @@ margin-right: 10px;
 }
 .dsmovie-card{
     width: 100%;
-
 }
 
 .dsmovie-card img{
@@ -112,3 +109,7 @@ margin-right: 10px;
     border-radius: 4px;
 }
 
+.dsmovie-form-container{
+    padding: 40px 0;
+    max-width: 480px;
+}
